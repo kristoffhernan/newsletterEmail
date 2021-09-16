@@ -1,0 +1,2 @@
+# newsletterEmail
+Mass newsletter sender
